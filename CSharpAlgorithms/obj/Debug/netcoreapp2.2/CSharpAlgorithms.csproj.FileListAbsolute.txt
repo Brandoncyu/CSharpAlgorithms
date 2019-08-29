@@ -1,0 +1,11 @@
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpAlgorithms/CSharpAlgorithms/bin/Debug/netcoreapp2.2/CSharpAlgorithms.deps.json
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpAlgorithms/CSharpAlgorithms/bin/Debug/netcoreapp2.2/CSharpAlgorithms.runtimeconfig.json
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpAlgorithms/CSharpAlgorithms/bin/Debug/netcoreapp2.2/CSharpAlgorithms.runtimeconfig.dev.json
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpAlgorithms/CSharpAlgorithms/bin/Debug/netcoreapp2.2/CSharpAlgorithms.dll
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpAlgorithms/CSharpAlgorithms/bin/Debug/netcoreapp2.2/CSharpAlgorithms.pdb
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpAlgorithms/CSharpAlgorithms/obj/Debug/netcoreapp2.2/CSharpAlgorithms.csprojAssemblyReference.cache
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpAlgorithms/CSharpAlgorithms/obj/Debug/netcoreapp2.2/CSharpAlgorithms.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpAlgorithms/CSharpAlgorithms/obj/Debug/netcoreapp2.2/CSharpAlgorithms.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpAlgorithms/CSharpAlgorithms/obj/Debug/netcoreapp2.2/CSharpAlgorithms.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpAlgorithms/CSharpAlgorithms/obj/Debug/netcoreapp2.2/CSharpAlgorithms.dll
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpAlgorithms/CSharpAlgorithms/obj/Debug/netcoreapp2.2/CSharpAlgorithms.pdb
